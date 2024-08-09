@@ -32,7 +32,7 @@ export default function Home() {
         <CodeBlock>
           sudo apt -y install git libgtk-3-dev libx11-dev libjansson-dev libluajit-5.1-dev<br/>
           git clone https://github.com/wins1ey/LibreSplit --recurse-submodules<br/>
-          cd libresplit-git<br/>
+          cd libresplit<br/>
           make<br/>
           sudo make install<br/>
         </CodeBlock>
