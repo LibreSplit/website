@@ -27,8 +27,8 @@ export default function FAQ() {
         </p>
         <br/>
         <p>
-            <b className="text-xl">Q: Where can I download autosplitters?</b><br/>
-            A: <Link href="https://loomeh.github.io/AutosplittersForLAST/"><u>Here.</u></Link>
+            <b className="text-xl">Q: Where can I download splits and autosplitters?</b><br/>
+            A: <Link href="https://libresplit-resources.loomeh.tech"><u>Here.</u></Link>
         </p>
         <br/><br/><br/>
         
