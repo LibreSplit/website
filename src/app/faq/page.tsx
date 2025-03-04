@@ -28,7 +28,7 @@ export default function FAQ() {
         <br/>
         <p>
             <b className="text-xl">Q: Where can I download splits and autosplitters?</b><br/>
-            A: <Link href="https://libresplit-resources.loomeh.tech"><u>Here.</u></Link>
+            A: <Link href="https://libresplit-resources.loomeh.is-a.dev"><u>Here.</u></Link>
         </p>
         <br/><br/><br/>
         
@@ -40,6 +40,7 @@ export default function FAQ() {
                 <ul>
                     <li>- Settings (can be substituted with variables)</li>
                     <li>- External libraries (such as ASL Help)</li>
+                    <li>- Components</li>
                     <li>- Signature/Pattern scanning (is currently being worked on)</li>
                     <li>- Multiple executable support</li>
                 </ul>
