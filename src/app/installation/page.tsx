@@ -8,11 +8,6 @@ export default function Home() {
   return (
     <>
       <div>
-        <h1><b>AppImage (Sept. 24, 2024 - b56ce37)</b></h1><br/>
-        <DownloadButton fileUrl={FILE_URL}/>
-      </div>
-      <br/><br/>
-      <div>
         <h1><b>AUR (w/ helper)</b></h1>
         <CodeBlock>paru -S libresplit-git</CodeBlock>
       </div>
